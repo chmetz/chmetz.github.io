@@ -7,6 +7,8 @@ author_profile: true
 
 # 2023
 
+Sana Hassan Iman, **Christopher A. Metz** Lars Hornuf, Rolf Drechsler, *"Classifying Crowdsourcing Platform Users' Engagement Behavior using Machine Learning and XAI"*, In Mensch und Computer 2023 - Workshopband DOI: 10.18420/muc2023-mci-ws16-385 (accepted for publication)
+
 **Christopher A. Metz**, Christina Plump, Bernhard J. Berger, and Rolf Drechsler, *“Hybrid PTX Analysis for GPU accelerated CNN inferencing aiding Computer Architecture Design”*, In Forum on Specification & Design Languages (FDL), Turin, Italy, 2023. (accepted for publication)
 
 **Christopher A. Metz**, Mehran Goli and Rolf Drechsler, *"Fast and Accurate: Machine Learning Techniques for Performance Estimation of CNNs for GPGPUs,"* 2023 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), St. Petersburg, USA, 2023, pp 754-761 DOI:DOI 10.1109/IPDPSW59300.2023.00127
