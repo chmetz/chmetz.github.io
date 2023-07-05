@@ -1,5 +1,5 @@
 ---
-permalink: /files/Christopher_Metz.jpg
+permalink: /
 title: "Christopher A. Metz"
 excerpt: "About me"
 author_profile: true
