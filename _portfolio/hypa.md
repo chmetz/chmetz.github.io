@@ -4,7 +4,7 @@ excerpt: "a hybrid PTX analysis framework providing valuable insights for comput
 collection: portfolio
 ---
 
-Project: Hybrid PTX Analysis for GPU Accelerated CNN Inferencing Aiding Computer Architecture Design
+# Project: Hybrid PTX Analysis for GPU Accelerated CNN Inferencing Aiding Computer Architecture Design
 
 The use of Graphics Processing Units (GPUs) for general-purpose applications has seen a significant increase in recent years. From embedded devices to supercomputers like Summit, GPUs are now extensively utilized across various electronic devices. Deep Neural Networks (DNNs) training and inferencing, in particular, have greatly benefited from GPU acceleration, offering superior performance compared to traditional CPUs. However, the high power consumption associated with GPUs poses a challenge in terms of energy efficiency, both in supercomputers and Internet of Things (IoT) devices.
 
